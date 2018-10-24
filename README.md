@@ -11,3 +11,6 @@ First download pipenv
 
 then pip install
 run find_meteros.py
+
+''''
+moved find_meteors.py
